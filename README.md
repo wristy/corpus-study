@@ -1,13 +1,8 @@
 # Investigating Human Alignment in LLM Arithmetic
 
-Code and data for a corpus study asking whether the statistical structure of
-the Pile (the Pythia training corpus) explains the arithmetic behaviour of
-Pythia models — with the same effects that cognitive science has documented
+Code and data for Investigating Human Alignment in LLM Arithmetic. It investigates the Pile (the Pythia training corpus) and explains the arithmetic behaviour of Pythia models — with the same effects that cognitive science has documented
 in humans (e.g. the problem-size effect, and power-law-shaped number
 production).
-
-This repository reproduces every figure, table, and statistic reported in
-the paper.
 
 ---
 
@@ -52,55 +47,7 @@ corpus-study/
 
 ---
 
-## Note on `data/representation/`
-
-The per-layer activation caches used by `05_number_representation.ipynb`
-(`number_hidden_states_1_100_*.npz`, `number_hidden_states_extra_*.npz`,
-`arith_hidden_states_*.npz`) are large binary files and are **not** checked
-into this repository. They are cheap to regenerate:
-
-- `scripts/extract_number_reps.py` produces the number-representation caches
-  (~5 min on GPU, then a one-time ~15 min CPU pass for the MDS fit).
-- `scripts/extract_arith_reps.py` produces the arithmetic-representation
-  caches.
-
-The token audits that accompany those caches (small JSON files recording
-which prompt template/tokenization was used for each entry) are included.
-
----
-
-## Report → notebook map
-
-| Research question | Notebook |
-|---|---|
-| RQ1 (numbers 1–100 power-law) | `02_number_distribution.ipynb` |
-| RQ2 (arith freq pooled / by op) | `03_metrics_powerlaw.ipynb` |
-| RQ3 (Pythia number production, incl. 1–1000 range replication) | `02_number_distribution.ipynb` |
-| RQ4 (10×10 and 100×100 grids, 1- and 2-digit, 4 ops, 4-shot / zero-shot / model-size sweep) | `04_arithmetic_main.ipynb` |
-| RQ5 (subproblem difficulty, prominent operands) | `04_arithmetic_main.ipynb` |
-| Latent number line (is the learned number representation compressed?) | `05_number_representation.ipynb` |
-
----
-
 ## Run-all instructions
-
-> **All paths assume Jupyter was launched from the repo root.**
-
-1. Open `notebooks/00_setup.ipynb` and run all cells. Confirms HF caches,
-   model checkpoints, GPU availability.
-2. (Optional, slow) Open `notebooks/01_corpus_scan.ipynb`. The cached
-   outputs are already in `data/` — skip unless you want to re-extract from
-   the Pile.
-3. `notebooks/02_number_distribution.ipynb` → Fig 1, Fig 4.
-4. `notebooks/03_metrics_powerlaw.ipynb` → Fig 2, Fig 3.
-5. `notebooks/04_arithmetic_main.ipynb` → Fig 5, Fig 6, all tables,
-   Sec 3.5 / 3.6 figures, and the smaller-Pythia sweep figures. This
-   notebook takes longest, since it sweeps all 8 Pythia sizes.
-6. `notebooks/05_number_representation.ipynb` → latent number-line MDS.
-   First run calls `scripts/extract_number_reps.py` (needs a GPU, ~5 min);
-   afterwards it reads the cached `.npz` files and runs on CPU in ~15 min
-   (1-D MDS is multi-modal, so every solution reported is the
-   lowest-stress one over 1000 restarts × 4 seeds).
 
 All figures are written to `results/figures/`. Tables go to
 `results/tables/`.
@@ -109,8 +56,7 @@ All figures are written to `results/figures/`. Tables go to
 
 ## Environment
 
-See `environment.json`. Key facts:
-
+See `environment.json`. 
 | | |
 |---|---|
 | python | 3.9.12 |
