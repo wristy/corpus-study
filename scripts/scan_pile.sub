@@ -1,0 +1,47 @@
+#!/bin/bash
+#SBATCH --job-name=pile_scan
+#SBATCH --account=gts-svarma39
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=16G
+#SBATCH --time=24:00:00
+#SBATCH --qos=inferno
+#SBATCH --output=logs/%x-%j.out
+#SBATCH --error=logs/%x-%j.err
+#SBATCH --mail-type=NONE
+
+set -euo pipefail
+
+cd "$SLURM_SUBMIT_DIR"
+mkdir -p logs
+
+# Use scratch for HF caches (home is small; scratch is large) :contentReference[oaicite:4]{index=4}
+SCRATCH="/storage/scratch1/9/${USER}"
+CACHE_BASE="${SCRATCH}/hf_cache/${SLURM_JOB_ID}"
+mkdir -p "${CACHE_BASE}/hf" "${CACHE_BASE}/hub" "${CACHE_BASE}/datasets"
+
+export HF_HOME="${CACHE_BASE}/hf"
+export HF_HUB_CACHE="${CACHE_BASE}/hub"
+export HF_DATASETS_CACHE="${CACHE_BASE}/datasets"
+
+# ---- Python environment (pick what you use) ----
+module load anaconda3   # :contentReference[oaicite:5]{index=5}
+# conda activate myenv
+
+# Where to write output (default: scratch to avoid home quota)
+OUT="${SCRATCH}/pile_arith_matches_full_fresh_deduped.jsonl"
+
+module load anaconda3
+source "$(conda info --base)/etc/profile.d/conda.sh"
+conda activate pile-scan
+
+# sanity check (very useful)
+python -c "import datasets; import tqdm; print('env OK')"
+which python
+python -V
+
+python -u scan_pile.py \
+  --start 0 \
+  --out "${OUT}" \
+  --flush_every 2000

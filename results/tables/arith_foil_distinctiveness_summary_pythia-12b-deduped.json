@@ -1,0 +1,71 @@
+{
+  "model": "EleutherAI/pythia-12b-deduped",
+  "revision": "step143000",
+  "measure": "cos(expr, c) - mean(cos(expr, c-1), cos(expr, c+1))",
+  "expr_template": "{a} {op} {b} =",
+  "answer_template": " {}",
+  "headline_layer": 5,
+  "n_layers": 36,
+  "by_operation": {
+    "+": {
+      "n": 81,
+      "c_range": [
+        2,
+        18
+      ],
+      "mean_distinctiveness": -1.2788218831745793e-05,
+      "frac_positive": 0.43209876543209874,
+      "p_mean_vs_zero": 0.7273269287396977,
+      "rho": 0.09392953650854775,
+      "p": 0.5583553998951231,
+      "R2": 0.00435421264769307,
+      "best_layer_by_rho": 13,
+      "best_rho": -0.07598857595994778
+    },
+    "-": {
+      "n": 81,
+      "c_range": [
+        -8,
+        8
+      ],
+      "mean_distinctiveness": -0.000715969310255695,
+      "frac_positive": 0.5679012345679012,
+      "p_mean_vs_zero": 0.7406194287174621,
+      "rho": -0.3183387860978227,
+      "p": 0.5313076011486382,
+      "R2": 0.004979675061860042,
+      "best_layer_by_rho": 4,
+      "best_rho": -0.37565018785029486
+    },
+    "*": {
+      "n": 81,
+      "c_range": [
+        1,
+        81
+      ],
+      "mean_distinctiveness": 5.03920733008283e-05,
+      "frac_positive": 0.4691358024691358,
+      "p_mean_vs_zero": 0.26204609789789235,
+      "rho": -0.14187267331897127,
+      "p": 0.08894954830102271,
+      "R2": 0.03618472755879918,
+      "best_layer_by_rho": 1,
+      "best_rho": -0.3298726061666381
+    },
+    "/": {
+      "n": 23,
+      "c_range": [
+        1,
+        9
+      ],
+      "mean_distinctiveness": -0.00041353461832870027,
+      "frac_positive": 0.391304347826087,
+      "p_mean_vs_zero": 0.008634104113189333,
+      "rho": 0.6893958411499562,
+      "p": 0.00895491323111434,
+      "R2": 0.2831831021712464,
+      "best_layer_by_rho": 36,
+      "best_rho": -0.7707118194458338
+    }
+  }
+}

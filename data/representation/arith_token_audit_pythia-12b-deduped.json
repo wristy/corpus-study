@@ -1,0 +1,7716 @@
+[
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 3,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 4,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 5,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 6,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 7,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 8,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 1,
+  "b": 9,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 3,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 4,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 5,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 6,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 7,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 8,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 2,
+  "b": 9,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 2,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 4,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 5,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 6,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 7,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 8,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 3,
+  "b": 9,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 3,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 4,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 5,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 6,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 7,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 8,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 4,
+  "b": 9,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 2,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 3,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 4,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 5,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 6,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 7,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 8,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 5,
+  "b": 9,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 2,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 3,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 4,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 5,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 6,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 7,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 8,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 6,
+  "b": 9,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 2,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 3,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 4,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 5,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 6,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 7,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 8,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 7,
+  "b": 9,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 2,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 3,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 4,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 5,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 6,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 7,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 8,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 8,
+  "b": 9,
+  "c": 17,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 1,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 2,
+  "c": 11,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 3,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 4,
+  "c": 13,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 5,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 6,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 7,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 8,
+  "c": 17,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "+",
+  "a": 9,
+  "b": 9,
+  "c": 18,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 1,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 2,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 3,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 4,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 5,
+  "c": -4,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 6,
+  "c": -5,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 7,
+  "c": -6,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 8,
+  "c": -7,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 1,
+  "b": 9,
+  "c": -8,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 2,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 3,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 4,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 5,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 6,
+  "c": -4,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 7,
+  "c": -5,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 8,
+  "c": -6,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 2,
+  "b": 9,
+  "c": -7,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 2,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 3,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 4,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 5,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 6,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 7,
+  "c": -4,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 8,
+  "c": -5,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 3,
+  "b": 9,
+  "c": -6,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 3,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 4,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 5,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 6,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 7,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 8,
+  "c": -4,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 4,
+  "b": 9,
+  "c": -5,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 3,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 4,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 5,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 6,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 7,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 8,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 5,
+  "b": 9,
+  "c": -4,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 4,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 5,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 6,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 7,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 8,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 6,
+  "b": 9,
+  "c": -3,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 2,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 3,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 4,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 5,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 6,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 7,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 8,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 7,
+  "b": 9,
+  "c": -2,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 3,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 4,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 5,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 6,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 7,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 8,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 8,
+  "b": 9,
+  "c": -1,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 2,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 4,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 5,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 6,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 7,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 8,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "-",
+  "a": 9,
+  "b": 9,
+  "c": 0,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 4,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 5,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 6,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 7,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 8,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 1,
+  "b": 9,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 4,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 5,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 6,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 7,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 8,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 2,
+  "b": 9,
+  "c": 18,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 3,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 4,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 5,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 6,
+  "c": 18,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 7,
+  "c": 21,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 8,
+  "c": 24,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 3,
+  "b": 9,
+  "c": 27,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 2,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 3,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 4,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 5,
+  "c": 20,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 6,
+  "c": 24,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 7,
+  "c": 28,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 8,
+  "c": 32,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 4,
+  "b": 9,
+  "c": 36,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 2,
+  "c": 10,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 3,
+  "c": 15,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 4,
+  "c": 20,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 5,
+  "c": 25,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 6,
+  "c": 30,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 7,
+  "c": 35,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 8,
+  "c": 40,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 5,
+  "b": 9,
+  "c": 45,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 2,
+  "c": 12,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 3,
+  "c": 18,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 4,
+  "c": 24,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 5,
+  "c": 30,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 6,
+  "c": 36,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 7,
+  "c": 42,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 8,
+  "c": 48,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 6,
+  "b": 9,
+  "c": 54,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 2,
+  "c": 14,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 3,
+  "c": 21,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 4,
+  "c": 28,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 5,
+  "c": 35,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 6,
+  "c": 42,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 7,
+  "c": 49,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 8,
+  "c": 56,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 7,
+  "b": 9,
+  "c": 63,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 2,
+  "c": 16,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 3,
+  "c": 24,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 4,
+  "c": 32,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 5,
+  "c": 40,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 6,
+  "c": 48,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 7,
+  "c": 56,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 8,
+  "c": 64,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 8,
+  "b": 9,
+  "c": 72,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 2,
+  "c": 18,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 3,
+  "c": 27,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 4,
+  "c": 36,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 5,
+  "c": 45,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 6,
+  "c": 54,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 7,
+  "c": 63,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 8,
+  "c": 72,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "*",
+  "a": 9,
+  "b": 9,
+  "c": 81,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 1,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "1",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 2,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "2",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 2,
+  "b": 2,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "2",
+   "\u0120/",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 3,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "3",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 3,
+  "b": 3,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "3",
+   "\u0120/",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 4,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 4,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 4,
+  "b": 4,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 5,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "5",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 5,
+  "b": 5,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01205",
+  "tokens": [
+   "5",
+   "\u0120/",
+   "\u01205"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 6,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 6,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 6,
+  "b": 3,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 6,
+  "b": 6,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01206",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01206"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 7,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "7",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 7,
+  "b": 7,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01207",
+  "tokens": [
+   "7",
+   "\u0120/",
+   "\u01207"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 8,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 8,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 3,
+  "last_token": "\u01202",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01202"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 8,
+  "b": 4,
+  "c": 2,
+  "n_tokens": 3,
+  "last_token": "\u01204",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01204"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 8,
+  "b": 8,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01208",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01208"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 9,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 3,
+  "last_token": "\u01201",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01201"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 9,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 3,
+  "last_token": "\u01203",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01203"
+  ]
+ },
+ {
+  "template": "{a} {op} {b}",
+  "op": "/",
+  "a": 9,
+  "b": 9,
+  "c": 1,
+  "n_tokens": 3,
+  "last_token": "\u01209",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01209"
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 3,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 4,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 5,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 6,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 7,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 8,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 1,
+  "b": 9,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 3,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 4,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 5,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 6,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 7,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 8,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 2,
+  "b": 9,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 2,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 4,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 5,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 6,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 7,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 8,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 3,
+  "b": 9,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 3,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 4,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 5,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 6,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 7,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 8,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 4,
+  "b": 9,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 2,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 3,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 4,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 5,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 6,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 7,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 8,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 5,
+  "b": 9,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 2,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 3,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 4,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 5,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 6,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 7,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 8,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 6,
+  "b": 9,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 2,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 3,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 4,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 5,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 6,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 7,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 8,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 7,
+  "b": 9,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 2,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 3,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 4,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 5,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 6,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 7,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 8,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 8,
+  "b": 9,
+  "c": 17,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 1,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 2,
+  "c": 11,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 3,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 4,
+  "c": 13,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 5,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 6,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 7,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 8,
+  "c": 17,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "+",
+  "a": 9,
+  "b": 9,
+  "c": 18,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120+",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 1,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 2,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 3,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 4,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 5,
+  "c": -4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 6,
+  "c": -5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 7,
+  "c": -6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 8,
+  "c": -7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 1,
+  "b": 9,
+  "c": -8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 2,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 3,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 4,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 5,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 6,
+  "c": -4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 7,
+  "c": -5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 8,
+  "c": -6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 2,
+  "b": 9,
+  "c": -7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 2,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 3,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 4,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 5,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 6,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 7,
+  "c": -4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 8,
+  "c": -5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 3,
+  "b": 9,
+  "c": -6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 3,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 4,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 5,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 6,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 7,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 8,
+  "c": -4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 4,
+  "b": 9,
+  "c": -5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 3,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 4,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 5,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 6,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 7,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 8,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 5,
+  "b": 9,
+  "c": -4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 4,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 5,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 6,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 7,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 8,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 6,
+  "b": 9,
+  "c": -3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 2,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 3,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 4,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 5,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 6,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 7,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 8,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 7,
+  "b": 9,
+  "c": -2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 3,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 4,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 5,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 6,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 7,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 8,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 8,
+  "b": 9,
+  "c": -1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 2,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 4,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 5,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 6,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 7,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 8,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "-",
+  "a": 9,
+  "b": 9,
+  "c": 0,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120-",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 4,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 5,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 6,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 7,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 8,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 1,
+  "b": 9,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 3,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 4,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 5,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 6,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 7,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 8,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 2,
+  "b": 9,
+  "c": 18,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 2,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 3,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 4,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 5,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 6,
+  "c": 18,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 7,
+  "c": 21,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 8,
+  "c": 24,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 3,
+  "b": 9,
+  "c": 27,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 2,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 3,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 4,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 5,
+  "c": 20,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 6,
+  "c": 24,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 7,
+  "c": 28,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 8,
+  "c": 32,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 4,
+  "b": 9,
+  "c": 36,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 2,
+  "c": 10,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 3,
+  "c": 15,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 4,
+  "c": 20,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 5,
+  "c": 25,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 6,
+  "c": 30,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 7,
+  "c": 35,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 8,
+  "c": 40,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 5,
+  "b": 9,
+  "c": 45,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 2,
+  "c": 12,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 3,
+  "c": 18,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 4,
+  "c": 24,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 5,
+  "c": 30,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 6,
+  "c": 36,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 7,
+  "c": 42,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 8,
+  "c": 48,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 6,
+  "b": 9,
+  "c": 54,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 2,
+  "c": 14,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 3,
+  "c": 21,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 4,
+  "c": 28,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 5,
+  "c": 35,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 6,
+  "c": 42,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 7,
+  "c": 49,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 8,
+  "c": 56,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 7,
+  "b": 9,
+  "c": 63,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 2,
+  "c": 16,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 3,
+  "c": 24,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 4,
+  "c": 32,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 5,
+  "c": 40,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 6,
+  "c": 48,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 7,
+  "c": 56,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 8,
+  "c": 64,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 8,
+  "b": 9,
+  "c": 72,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 2,
+  "c": 18,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 3,
+  "c": 27,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 4,
+  "c": 36,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 5,
+  "c": 45,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 6,
+  "c": 54,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 7,
+  "c": 63,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 8,
+  "c": 72,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "*",
+  "a": 9,
+  "b": 9,
+  "c": 81,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120*",
+   "\u01209",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 1,
+  "b": 1,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "1",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 2,
+  "b": 1,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 2,
+  "b": 2,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "2",
+   "\u0120/",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 3,
+  "b": 1,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 3,
+  "b": 3,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "3",
+   "\u0120/",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 4,
+  "b": 1,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 4,
+  "b": 2,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 4,
+  "b": 4,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "4",
+   "\u0120/",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 5,
+  "b": 1,
+  "c": 5,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 5,
+  "b": 5,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "5",
+   "\u0120/",
+   "\u01205",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 6,
+  "b": 1,
+  "c": 6,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 6,
+  "b": 2,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 6,
+  "b": 3,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 6,
+  "b": 6,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "6",
+   "\u0120/",
+   "\u01206",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 7,
+  "b": 1,
+  "c": 7,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 7,
+  "b": 7,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "7",
+   "\u0120/",
+   "\u01207",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 8,
+  "b": 1,
+  "c": 8,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 8,
+  "b": 2,
+  "c": 4,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01202",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 8,
+  "b": 4,
+  "c": 2,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01204",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 8,
+  "b": 8,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "8",
+   "\u0120/",
+   "\u01208",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 9,
+  "b": 1,
+  "c": 9,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01201",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 9,
+  "b": 3,
+  "c": 3,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01203",
+   "\u0120="
+  ]
+ },
+ {
+  "template": "{a} {op} {b} =",
+  "op": "/",
+  "a": 9,
+  "b": 9,
+  "c": 1,
+  "n_tokens": 4,
+  "last_token": "\u0120=",
+  "tokens": [
+   "9",
+   "\u0120/",
+   "\u01209",
+   "\u0120="
+  ]
+ }
+]

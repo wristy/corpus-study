@@ -1,0 +1,19 @@
+{
+  "python": "3.9.12",
+  "platform": "Linux-5.14.0-570.100.1.el9_6.x86_64-x86_64-with-glibc2.34",
+  "torch": "2.7.0+cu126",
+  "torch_cuda_build": "12.6",
+  "cudnn": 90501,
+  "transformers": "4.52.4",
+  "accelerate": "1.10.1",
+  "huggingface_hub": "0.36.2",
+  "numpy": "1.21.5",
+  "pandas": "1.4.2",
+  "matplotlib": "3.5.1",
+  "model": "EleutherAI/pythia-12b-deduped",
+  "revision": "step143000",
+  "dtype": "torch.float16",
+  "gpu": "NVIDIA H200",
+  "gpu_mem_GB": 150.1,
+  "gpu_count": 1
+}
