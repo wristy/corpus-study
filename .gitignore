@@ -3,3 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/representation/*.npz
+
+# paper draft (kept out of the code repo)
+main.tex
+Corpus_Paper.pdf

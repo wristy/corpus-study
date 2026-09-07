@@ -1,0 +1,163 @@
+\section{4-shot arithmetic on smaller models: two-digit operands}
+\label{app:smaller-models-twodigit}
+
+What follows are results for smaller Pythia models on the same experiment as
+Section~\ref{sec:twodigit} (two-digit operands, $a,b \in [10,99]$, 4-shot, inverse
+framing), including both heatmaps and tables. Problem size is the largest number
+appearing in the equation, $\max(|x|,|y|,|c|)$; the frequency column correlates
+surprisal with $\log(1+\text{Pile count})$ of the displayed expression.
+
+\newcommand{\smallmodeltabletwod}[3]{%
+\begin{table}[!htb]
+  \caption{#1}
+  \label{#2}
+  \centering
+  \begin{tabular}{lrrrrrr}
+    \toprule
+    & \multicolumn{2}{c}{Accuracy}
+    & \multicolumn{2}{c}{Surprisal--size}
+    & \multicolumn{2}{c}{Surprisal--frequency} \\
+    \cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+    Operation & $M$ & $SD$ & $r$ & $p$ & $r$ & $p$ \\
+    \midrule
+    #3
+    \bottomrule
+  \end{tabular}
+\end{table}}
+
+\subsection{Pythia-70M-deduped}
+
+\smallmodeltabletwod{Pythia-70M-deduped, 4-shot, two-digit operands.}{tab:70m2d}{%
+    Addition       & 0.005 & 0.072 & $0.204$ & 1.72e-76  & $ 0.038$ & 0.000699  \\
+    Subtraction    & 0.000 & 0.000 & $0.285$ & 7.39e-151 & $-0.129$ & 1.59e-31  \\
+    Multiplication & 0.000 & 0.022 & $0.662$ & $<$1e-308 & $-0.356$ & 6.07e-240 \\
+    Division       & 0.010 & 0.102 & $0.003$ & 0.797     & $-0.017$ & 0.121     \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia70m.png}
+  \caption{Pythia-70M-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-160M-deduped}
+
+\smallmodeltabletwod{Pythia-160M-deduped, 4-shot, two-digit operands.}{tab:160m2d}{%
+    Addition       & 0.000 & 0.019 & $0.169$ & 6.82e-53  & $ 0.080$ & 4.36e-13  \\
+    Subtraction    & 0.000 & 0.019 & $0.501$ & $<$1e-308 & $-0.178$ & 1.04e-58  \\
+    Multiplication & 0.001 & 0.027 & $0.631$ & $<$1e-308 & $-0.261$ & 4.94e-126 \\
+    Division       & 0.009 & 0.096 & $0.398$ & 6.67e-306 & $-0.065$ & 6.14e-09  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia160m.png}
+  \caption{Pythia-160M-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-410M-deduped}
+
+\smallmodeltabletwod{Pythia-410M-deduped, 4-shot, two-digit operands.}{tab:410m2d}{%
+    Addition       & 0.000 & 0.000 & $0.441$ & $<$1e-308 & $-0.239$ & 2.32e-105 \\
+    Subtraction    & 0.000 & 0.000 & $0.402$ & 9.84e-312 & $-0.285$ & 1.08e-151 \\
+    Multiplication & 0.003 & 0.057 & $0.879$ & $<$1e-308 & $-0.337$ & 6.01e-215 \\
+    Division       & 0.012 & 0.108 & $0.277$ & 2.78e-142 & $-0.051$ & 4.44e-06  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia410m.png}
+  \caption{Pythia-410M-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-1B-deduped}
+
+\smallmodeltabletwod{Pythia-1B-deduped, 4-shot, two-digit operands.}{tab:1b2d}{%
+    Addition       & 0.040 & 0.196 & $0.493$ & $<$1e-308 & $-0.186$ & 3.4e-64   \\
+    Subtraction    & 0.020 & 0.140 & $0.174$ & 2.88e-56  & $-0.103$ & 1.5e-20   \\
+    Multiplication & 0.003 & 0.055 & $0.872$ & $<$1e-308 & $-0.375$ & 8.39e-269 \\
+    Division       & 0.021 & 0.145 & $0.549$ & $<$1e-308 & $-0.089$ & 7.64e-16  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia1b.png}
+  \caption{Pythia-1B-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-1.4B-deduped}
+
+\smallmodeltabletwod{Pythia-1.4B-deduped, 4-shot, two-digit operands.}{tab:14b2d}{%
+    Addition       & 0.207 & 0.405 & $0.572$ & $<$1e-308 & $-0.472$ & $<$1e-308 \\
+    Subtraction    & 0.053 & 0.224 & $0.587$ & $<$1e-308 & $-0.368$ & 5.98e-258 \\
+    Multiplication & 0.027 & 0.161 & $0.727$ & $<$1e-308 & $-0.465$ & $<$1e-308 \\
+    Division       & 0.090 & 0.286 & $0.293$ & 2.4e-160  & $-0.199$ & 3.63e-73  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia1_4b.png}
+  \caption{Pythia-1.4B-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-2.8B-deduped}
+
+\smallmodeltabletwod{Pythia-2.8B-deduped, 4-shot, two-digit operands.}{tab:28b2d}{%
+    Addition       & 0.821 & 0.383 & $0.347$ & 1.2e-227  & $-0.185$ & 3.42e-63  \\
+    Subtraction    & 0.839 & 0.368 & $0.410$ & $<$1e-308 & $-0.181$ & 1.2e-60   \\
+    Multiplication & 0.132 & 0.339 & $0.618$ & $<$1e-308 & $-0.466$ & $<$1e-308 \\
+    Division       & 0.370 & 0.483 & $0.217$ & 9.18e-87  & $-0.206$ & 1.38e-78  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia2_8b.png}
+  \caption{Pythia-2.8B-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-6.9B-deduped}
+
+\smallmodeltabletwod{Pythia-6.9B-deduped, 4-shot, two-digit operands.}{tab:69b2d}{%
+    Addition       & 0.767 & 0.423 & $0.342$ & 6.03e-221 & $-0.225$ & 6.88e-94  \\
+    Subtraction    & 0.685 & 0.464 & $0.340$ & 5.1e-218  & $-0.193$ & 8.32e-69  \\
+    Multiplication & 0.121 & 0.326 & $0.405$ & 5.92e-318 & $-0.328$ & 3.02e-202 \\
+    Division       & 0.324 & 0.468 & $0.311$ & 5.39e-181 & $-0.170$ & 2.22e-53  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia6_9b.png}
+  \caption{Pythia-6.9B-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+\clearpage
+
+\subsection{Pythia-12B-deduped}
+
+\smallmodeltabletwod{Pythia-12B-deduped, 4-shot, two-digit operands.}{tab:12b2d}{%
+    Addition       & 0.830 & 0.376 & $0.336$ & 3.19e-213 & $-0.194$ & 2.12e-69  \\
+    Subtraction    & 0.737 & 0.440 & $0.356$ & 3.66e-241 & $-0.188$ & 1.74e-65  \\
+    Multiplication & 0.236 & 0.425 & $0.555$ & $<$1e-308 & $-0.377$ & 1.18e-272 \\
+    Division       & 0.190 & 0.392 & $0.017$ & 0.136     & $-0.138$ & 1.08e-35  \\
+}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figD_2digit_pythia12b.png}
+  \caption{Pythia-12B-deduped, two-digit operands, $k=4$.}
+\end{figure}
+\FloatBarrier
+
+\FloatBarrier
